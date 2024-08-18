@@ -25,3 +25,13 @@ public class print1 {
 	}
 
 }
+
+//Recursion in 3 steps
+
+// what is a recursion 
+// Base condition 
+// Stack overfloww / stack  space
+
+// Recusion tree
+
+
